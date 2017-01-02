@@ -1,2 +1,2 @@
 # Teaching
-code to support research &amp; teaching
+code to support research &amp; teaching @nyu
